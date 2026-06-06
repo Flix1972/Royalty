@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="🇮🇱 ישראל וחדשות",🇮🇱 ישראל וחדשות
+#EXTINF:-1 tvg-name="כאן 11",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-name="רשת 13",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 tvg-name="ערוץ 14",ערוץ 14
@@ -11,15 +15,16 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12269/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2369/index.m3u8
 #EXTINF:-1 tvg-name="מכאן 33",מכאן 33
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2381/index.m3u8
-#EXTINF:-1 tvg-name="כאן 11",כאן 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-name="ערוץ 24",ערוץ 24
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12237/index.m3u8
 #EXTINF:-1 tvg-name="האח הגדול",האח הגדול
 https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_2.m3u8
 #EXTINF:-1 tvg-name="האח הגדול (גיבוי 2)",האח הגדול (גיבוי 2)
 https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_1.m3u8
 #EXTINF:-1 tvg-name="כאן חינוכית",כאן חינוכית
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2380/index.m3u8
-#EXTINF:-1 tvg-name="ערוצי ספורט",ערוצי ספורט
+
+#EXTINF:-1 tvg-name="⚽ ספורט",⚽ ספורט
 #EXTINF:-1 tvg-name="ספורט 1",ספורט 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12249/index.m3u8
 #EXTINF:-1 tvg-name="ספורט 2",ספורט 2
@@ -38,28 +43,30 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2373/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12231/index.m3u8
 #EXTINF:-1 tvg-name="יורוספורט 2",יורוספורט 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/7203/index.m3u8
-#EXTINF:-1 tvg-name="ערוצי HOT",ערוצי HOT
+
+#EXTINF:-1 tvg-name="🎬 HOT",🎬 HOT
 #EXTINF:-1 tvg-name="HOT סינמה 1",HOT סינמה 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2357/index.m3u8
 #EXTINF:-1 tvg-name="HOT סינמה 4",HOT סינמה 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2356/index.m3u8
 #EXTINF:-1 tvg-name="HOT סינמה משפחתי",HOT סינמה משפחתי
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2151/index.m3u8
-#EXTINF:-1 tvg-name="הוט HBO",הוט HBO
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2354/index.m3u8
 #EXTINF:-1 tvg-name="HOT 3",HOT 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2367/index.m3u8
 #EXTINF:-1 tvg-name="HOT 3 (גיבוי 1)",HOT 3 (גיבוי 1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12214/index.m3u8
-#EXTINF:-1 tvg-name="HOT 8",HOT 8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12216/index.m3u8
+#EXTINF:-1 tvg-name="הוט HBO",הוט HBO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2354/index.m3u8
 #EXTINF:-1 tvg-name="HOT זון",HOT זון
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2360/index.m3u8
 #EXTINF:-1 tvg-name="HOT בידור (גיבוי 1)",HOT בידור (גיבוי 1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/31938/index.m3u8
 #EXTINF:-1 tvg-name="HOT סיניור",HOT סיניור
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/31940/index.m3u8
-#EXTINF:-1 tvg-name="ערוצי YES/יס",ערוצי YES/יס
+#EXTINF:-1 tvg-name="HOT 8",HOT 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12216/index.m3u8
+
+#EXTINF:-1 tvg-name="🎞️ YES",🎞️ YES
 #EXTINF:-1 tvg-name="יס ישראלי",יס ישראלי
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2342/index.m3u8
 #EXTINF:-1 tvg-name="יס סרטים אקשן",יס סרטים אקשן
@@ -92,9 +99,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2346/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2345/index.m3u8
 #EXTINF:-1 tvg-name="יס דוקו",יס דוקו
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12258/index.m3u8
-#EXTINF:-1 tvg-name="בוליווד",בוליווד
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12267/index.m3u8
-#EXTINF:-1 tvg-name="ערוצי ילדים",ערוצי ילדים
+
+#EXTINF:-1 tvg-name="👶 ילדים",👶 ילדים
 #EXTINF:-1 tvg-name="הופ!",הופ!
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2338/index.m3u8
 #EXTINF:-1 tvg-name="הופ! (גיבוי 1)",הופ! (גיבוי 1)
@@ -121,6 +127,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2370/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2359/index.m3u8
 #EXTINF:-1 tvg-name="ויז",ויז
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12283/index.m3u8
+
+#EXTINF:-1 tvg-name="🌍 דוקומנטרי וידע",🌍 דוקומנטרי וידע
 #EXTINF:-1 tvg-name="נשיונל ג'יאוגרפיק",נשיונל ג'יאוגרפיק
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2387/index.m3u8
 #EXTINF:-1 tvg-name="נשיונל ג'יאוגרפיק (גיבוי 1)",נשיונל ג'יאוגרפיק (גיבוי 1)
@@ -135,6 +143,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12241/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12223/index.m3u8
 #EXTINF:-1 tvg-name="היסטוריה (גיבוי 1)",היסטוריה (גיבוי 1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12265/index.m3u8
+
+#EXTINF:-1 tvg-name="🎭 סדרות ותרבות",🎭 סדרות ותרבות
 #EXTINF:-1 tvg-name="ויוה וינטג'",ויוה וינטג'
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/31937/index.m3u8
 #EXTINF:-1 tvg-name="אי!",אי!
@@ -145,8 +155,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2390/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12208/index.m3u8
 #EXTINF:-1 tvg-name="דרמות טורקיות פלוס (גיבוי 1)",דרמות טורקיות פלוס (גיבוי 1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2363/index.m3u8
-#EXTINF:-1 tvg-name="ערוץ 24",ערוץ 24
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12237/index.m3u8
+#EXTINF:-1 tvg-name="בוליווד",בוליווד
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12267/index.m3u8
+
+#EXTINF:-1 tvg-name="🏠 לייף סטייל",🏠 לייף סטייל
 #EXTINF:-1 tvg-name="הום פלוס",הום פלוס
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/2339/index.m3u8
 #EXTINF:-1 tvg-name="גוד לייף",גוד לייף
